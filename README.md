@@ -12,7 +12,7 @@
 <h3 align="left">You can also find me at:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/monikanayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="monika-nayak" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/muonikanayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="monika-nayak" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/monikanayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="monika-nayak" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/themonikanayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="monika-nayak" height="30" width="40" /></a>
 <a href="https://leetcode.com/themonikanayak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mukulnayak" height="30" width="40" /></a>
 </p>
