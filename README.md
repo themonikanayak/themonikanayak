@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Monika Nayak</h1>
-<h3 align="center">I’m a second-year undergraduate at the Indian Institute of Technology (BHU), Varanasi, pursuing a Bachelor’s in Electrical Engineering.</h3>
+<h3 align="center">I’m a second-year undergraduate at the Indian Institute of Technology (BHU), Varanasi, pursuing my Bachelor’s in Electrical Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themonikanayak&label=Profile%20views&color=129e00&style=plastic" alt="monika-nayak" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/579758/screenshots/7913682/media/dba653894c5db9ef322647cb1701240e.jpg">
