@@ -16,7 +16,7 @@
 <a href="https://codeforces.com/profile/themonikanayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="monika-nayak" height="30" width="40" /></a>
 <a href="https://leetcode.com/themonikanayak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mukulnayak" height="30" width="40" /></a>
 </p>
-<br>
+<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themonikanayak&show_icons=true&locale=en&layout=compact" alt="monika-nayak" /></p>
 
