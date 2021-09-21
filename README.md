@@ -1,25 +1,51 @@
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Monika!
 
-<h1 align="center">Hi 👋, I'm Monika Nayak</h1>
-<h3 align="center">I’m a second-year undergraduate at the Indian Institute of Technology (BHU), Varanasi, pursuing my Bachelor’s in Electrical Engineering.</h3>
+<img src="https://img.shields.io/github/followers/themonikanayak?style=social"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=themonikanayak&label=Profile%20views&color=129e00&style=plastic" alt="monika-nayak" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/579758/screenshots/7913682/media/dba653894c5db9ef322647cb1701240e.jpg">
+![Profile Views](https://gpvc.arturio.dev/themonikanayak)
 
-
-- 📫 Reach me at **themonikanayak@gmail.com**
-
-
-<h3 align="left">You can also find me at:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/monikanayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="monika-nayak" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/monikanayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="monika-nayak" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/themonikanayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="monika-nayak" height="30" width="40" /></a>
-<a href="https://leetcode.com/themonikanayak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mukulnayak" height="30" width="40" /></a>
+<p>
+ <i>
+    I am an aspiring software engineer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>.
+ </i>
 </p>
-<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themonikanayak&show_icons=true&locale=en&layout=compact" alt="monika-nayak" /></p>
+---
+<img src='https://github-readme-stats.vercel.app/api?username=themonikanayak&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=themonikanayak&theme=tokyonight&hide_langs_below=4' align="middle" />
+### About Me:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themonikanayak&show_icons=true&locale=en" alt="monika-nayak" /></p>
+- 🎓 I am currently a second year undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
+- 👨‍ I like to solve real life problems and I am interested in competitive programming
+- ⚡ I am looking to collaborate with people/organizations and enhance my skills as a developer
+- 🏋 Apart from coding I love working out and also I have a keen interest in Reading and painting.
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+<!-- <p align="center">
+  <a href="https://github.com/themonikanayak">
+    <img src="https://github-readme-stats.vercel.app/api?username=themonikanayak&show_icons=true&hide=issues&theme=radical"/>
+  </a>
+</p> -->
+<!-- ### GitHub Stats:
+<p align="center">
+  <a href="https://github.com/themonikanayak">
+    <img src="https://github-readme-stats.vercel.app/api?username=themonikanayak&show_icons=true&hide=issues&theme=radical"/>
+  </a>
+</p>
+
+
+### Top Languages: 
+<p align="center">
+  <a href="https://github.com/themonikanayak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themonikanayak&theme=radical" align="center" />
+  </a>
+</p> -->
+
+---
+
+### Find Me On:
+<p align="center">
+ <a href="https://www.linkedin.com/in/monikanayak/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+</p>
+
+---
+### CodeChef: [monikanayak](https://www.codechef.com/users/monikanayak) || Codeforces: [themonikanayak](https://codeforces.com/profile/themonikanayak)
