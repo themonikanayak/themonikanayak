@@ -18,7 +18,7 @@
 - 🎓 I am currently a second year undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
 - 👨‍ I like to solve real life problems and I am interested in competitive programming
 - ⚡ I am looking to collaborate with people/organizations and enhance my skills as a developer
-- 🏋 Apart from coding I love working out and also I have a keen interest in Reading and painting.
+- 🏋 Apart from coding I love reading novels and also I have a keen interest in graphic designing and painting.
 
 <!-- <p align="center">
   <a href="https://github.com/themonikanayak">
