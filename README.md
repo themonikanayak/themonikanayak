@@ -13,6 +13,7 @@
 ---
 <img src='https://github-readme-stats.vercel.app/api?username=themonikanayak&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=themonikanayak&theme=tokyonight&hide_langs_below=4' align="middle" />
+<hr>
 ### About Me:
 
 - 🎓 I am currently a second year undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
